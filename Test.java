@@ -9,14 +9,14 @@ git commit -a to to samo co git add " " - tak jak w podpowiedzi
 git diff - pokazuje nam co sie zmienilo, zeby wyjsc z diffa trzeba macisnac q
 vim - wychodzenie :wq
 git branch - zmienia galezie
-
+git merge test, gdzie test to nazwa brancha ktora chcemy dodac do galezi master - scala ze soba galezie kodu
 
 
 */
 
 public class Test {
 	public static void main(String[] args) {
-		System.out.println("test");
+		System.out.println("olaboga");
 	}
 	public String test() {
 		return "test";
